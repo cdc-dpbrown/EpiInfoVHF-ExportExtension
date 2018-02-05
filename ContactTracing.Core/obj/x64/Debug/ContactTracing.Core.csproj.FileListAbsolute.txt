@@ -1,0 +1,1 @@
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Core\obj\x64\Debug\ContactTracing.Core.csprojResolveAssemblyReference.cache

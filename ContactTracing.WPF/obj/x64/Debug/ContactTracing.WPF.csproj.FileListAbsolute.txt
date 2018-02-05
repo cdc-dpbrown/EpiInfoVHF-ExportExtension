@@ -1,0 +1,7 @@
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\x64\Debug\ContactTracingLegend.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\x64\Debug\ErrorPanel.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\x64\Debug\LoadingPanel.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\x64\Debug\ProjectSettings.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\x64\Debug\NewOutbreak.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\x64\Debug\ContactTracing.WPF_MarkupCompile.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\x64\Debug\ContactTracing.WPF_MarkupCompile.lref

@@ -1,0 +1,41 @@
+C:\TFSCode\Epi Info 7\build\debug\NPOI.dll
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\Epi Info 7\build\debug\LabMenu.exe.config
+C:\TFSCode\Epi Info 7\build\debug\LabMenu.exe
+C:\TFSCode\Epi Info 7\build\debug\LabMenu.pdb
+C:\TFSCode\Epi Info 7\build\debug\fr-FR\LabMenu.resources.dll
+C:\TFSCode\Epi Info 7\build\debug\fr\LabMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\ContactTracing.LabView.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\App.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\MainWindow.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\App.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\LabMenu_MarkupCompile.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\LabMenu_MarkupCompile.lref
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\MainWindow.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\LabMenu.g.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\ContactTracing.LabView.Dialogs.AuthCodeDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\ContactTracing.LabView.Properties.Resources.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\ContactTracing.LabView.Dialogs.AuthCodeDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\ContactTracing.LabView.Properties.Resources.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\ContactTracing.LabView.csproj.GenerateResource.Cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\fr-FR\LabMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\fr\LabMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\LabMenu.exe
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.LabView\obj\x86\Debug\LabMenu.pdb

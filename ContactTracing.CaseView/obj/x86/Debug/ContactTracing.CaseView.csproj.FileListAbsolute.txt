@@ -1,0 +1,489 @@
+C:\CDC\Epi Info 7\CaseManagementMenu.exe.config
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template.prj
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_lab_template.prj
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template_fr.prj
+C:\CDC\Epi Info 7\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\CRF.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_lab_template.mdb
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template.mdb
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template_fr.mdb
+C:\CDC\Epi Info 7\CaseManagementMenu.exe
+C:\CDC\Epi Info 7\CaseManagementMenu.pdb
+C:\CDC\Epi Info 7\fr-FR\CaseManagementMenu.resources.dll
+C:\CDC\Epi Info 7\en-US\CaseManagementMenu.resources.dll
+C:\CDC\Epi Info 7\fr\CaseManagementMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid1.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid2.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExportSyncFile.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\FieldValueChanges.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\RecordErrors.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\SelectEpiCaseClassification.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisCountryViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AnalysisSectionHeader.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ConfirmedProbableTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeInfo.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\CountryDistrictResTables.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeGroupChartCP.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCPS.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCP.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeContactsTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\OnsetLocationTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\PatientTestedInfo.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\DailyStats.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiClassAllPatients.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LabClassAllPatients.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LastIsoInfo.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ResidenceTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SingleContactChart.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid1.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid2.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SymptomsTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExportSyncFile.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\FilterSortSelectForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictFieldTypeEditor.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\CountryNameEditor.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictNameEditor.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExposureRelationshipsForCase.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\FieldValueChanges.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\LabResultActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactEntryForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactLinkActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ConvertToContact.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseLinkActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseReportFormViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DataChecker.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingCase.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingContact.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ImportFromLab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\LabRecordsForCase.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\MenuItemPanel.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Occupations.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\PanelSubTab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\PatientOutcomeFormViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage3.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage2.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage1.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\DateDisplay.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\YesNoUnknownBoxDisplay.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\QuickCaseEntryForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\RecordErrors.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\SelectEpiCaseClassification.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortCaseEntryForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortLabResultForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\SitrepB.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\StatusSelector.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\AnalysisTab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\HospitalizationTab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\UnexplainedBleeding.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\YesNoUnknown.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\MainWindow.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\App.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu_MarkupCompile.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu_MarkupCompile.lref
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\Epi Info 7\build\debug\CaseManagementMenu.exe.config
+C:\TFSCode\Epi Info 7\build\debug\CaseManagementMenu.exe
+C:\TFSCode\Epi Info 7\build\debug\CaseManagementMenu.pdb
+C:\TFSCode\Epi Info 7\build\debug\fr-FR\CaseManagementMenu.resources.dll
+C:\TFSCode\Epi Info 7\build\debug\en-US\CaseManagementMenu.resources.dll
+C:\TFSCode\Epi Info 7\build\debug\fr\CaseManagementMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\App.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisCountryViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AnalysisSectionHeader.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AnalysisStyleDictionary.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ConfirmedProbableTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeInfo.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\CountryDistrictResTables.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeGroupChartCP.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCPS.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCP.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeContactsTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\OnsetLocationTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\PatientTestedInfo.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\DailyStats.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiClassAllPatients.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LabClassAllPatients.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LastIsoInfo.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ResidenceTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SingleContactChart.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SymptomsTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\FilterSortSelectForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictFieldTypeEditor.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\CountryNameEditor.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictNameEditor.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExposureRelationshipsForCase.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\LabResultActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactEntryForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactLinkActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ConvertToContact.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseLinkActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseReportFormViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DataChecker.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingCase.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingContact.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ImportFromLab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\LabRecordsForCase.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\MenuItemPanel.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Occupations.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\PanelSubTab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\PatientOutcomeFormViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage3.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage2.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage1.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\DateDisplay.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\YesNoUnknownBoxDisplay.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\QuickCaseEntryForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortCaseEntryForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortLabResultForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\SitrepB.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\StatusSelector.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\AnalysisTab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\HospitalizationTab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\UnexplainedBleeding.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Controls\YesNoUnknown.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\MainWindow.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\Themes\Generic.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.g.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.AuthCodeDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateAnalysisDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDeathDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewCaseDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Properties.Resources.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.AuthCodeDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateAnalysisDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateAnalysisDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDeathDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDeathDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewCaseDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewCaseDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Properties.Resources.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.csproj.GenerateResource.Cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\fr-FR\CaseManagementMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\en-US\CaseManagementMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\fr\CaseManagementMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.exe
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.pdb
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\CaseManagementMenu.exe.config
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\CaseManagementMenu.exe
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\CaseManagementMenu.pdb
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\fr-FR\CaseManagementMenu.resources.dll
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\en-US\CaseManagementMenu.resources.dll
+C:\TFSCode\Epi Info 7.1.4.0 Release\build\debug\fr\CaseManagementMenu.resources.dll
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\CaseManagementMenu.exe.config
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\CaseManagementMenu.exe
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\CaseManagementMenu.pdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\fr-FR\CaseManagementMenu.resources.dll
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\en-US\CaseManagementMenu.resources.dll
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\fr\CaseManagementMenu.resources.dll
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\NPOI.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.exe
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.pdb
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid1.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid2.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExportSyncFile.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\FieldValueChanges.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\RecordErrors.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\SelectEpiCaseClassification.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisCountryViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AnalysisSectionHeader.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ConfirmedProbableTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeInfo.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\CountryDistrictResTables.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeGroupChartCP.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCPS.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCP.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeContactsTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\OnsetLocationTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\PatientTestedInfo.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\DailyStats.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiClassAllPatients.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LabClassAllPatients.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LastIsoInfo.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ResidenceTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SingleContactChart.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid1.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid2.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SymptomsTable.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExportSyncFile.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\FilterSortSelectForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictFieldTypeEditor.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\CountryNameEditor.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictNameEditor.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExposureRelationshipsForCase.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\FieldValueChanges.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\LabResultActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactEntryForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactLinkActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ConvertToContact.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseLinkActionsRowControl.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseReportFormViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DataChecker.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingCase.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingContact.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ImportFromLab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\LabRecordsForCase.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\MenuItemPanel.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Occupations.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\PanelSubTab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\PatientOutcomeFormViewer.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage3.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage2.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage1.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\DateDisplay.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\YesNoUnknownBoxDisplay.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\QuickCaseEntryForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\RecordErrors.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\SelectEpiCaseClassification.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortCaseEntryForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortLabResultForm.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\SitrepB.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\StatusSelector.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\AnalysisTab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\HospitalizationTab.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\UnexplainedBleeding.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\YesNoUnknown.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\MainWindow.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\App.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu_MarkupCompile.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu_MarkupCompile.lref
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\App.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisCountryViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AnalysisSectionHeader.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AnalysisStyleDictionary.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ConfirmedProbableTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeInfo.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\CountryDistrictResTables.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeGroupChartCP.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCPS.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiCurveChartCP.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeContactsTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\OnsetLocationTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\PatientTestedInfo.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\DailyStats.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiClassAllPatients.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LabClassAllPatients.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LastIsoInfo.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ResidenceTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SingleContactChart.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SymptomsTable.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\FilterSortSelectForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictFieldTypeEditor.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\CountryNameEditor.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictNameEditor.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExposureRelationshipsForCase.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\LabResultActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactEntryForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactLinkActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ConvertToContact.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseLinkActionsRowControl.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseReportFormViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DataChecker.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingCase.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingContact.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ImportFromLab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\LabRecordsForCase.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\MenuItemPanel.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Occupations.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\PanelSubTab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\PatientOutcomeFormViewer.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage3.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage2.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage1.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\DateDisplay.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\YesNoUnknownBoxDisplay.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\QuickCaseEntryForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortCaseEntryForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortLabResultForm.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\SitrepB.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\StatusSelector.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\AnalysisTab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\HospitalizationTab.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\UnexplainedBleeding.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\YesNoUnknown.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\MainWindow.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Themes\Generic.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.g.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.AuthCodeDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateAnalysisDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDeathDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewCaseDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Properties.Resources.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.AuthCodeDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateAnalysisDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateAnalysisDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDeathDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDeathDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.DateDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewCaseDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewCaseDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.en-US.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.fr-FR.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Dialogs.NewContactDialog.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.Properties.Resources.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.csproj.GenerateResource.Cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\fr-FR\CaseManagementMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\en-US\CaseManagementMenu.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\fr\CaseManagementMenu.resources.dll
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\CaseManagementMenu.exe.config
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.exe
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu.pdb
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\ContactTracing.CaseView.csprojResolveAssemblyReference.cache
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid1.baml
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid2.baml
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExportSyncFile.baml
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\FieldValueChanges.baml
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\RecordErrors.baml
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\SelectEpiCaseClassification.baml
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisCountryViewer.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AnalysisSectionHeader.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ConfirmedProbableTable.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\AgeInfo.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\CountryDistrictResTables.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeContactsTable.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\OnsetLocationTable.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\PatientTestedInfo.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\DailyStats.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\EpiClassAllPatients.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\FinalOutcomeTable.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LabClassAllPatients.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\LastIsoInfo.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\ResidenceTable.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SingleContactChart.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid1.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SitrepB\Grid2.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Analysis\SymptomsTable.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseActionsRowControl.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExportSyncFile.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\FilterSortSelectForm.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictFieldTypeEditor.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\CountryNameEditor.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DistrictNameEditor.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExposureRelationshipsForCase.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\FieldValueChanges.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\LabResultActionsRowControl.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactEntryForm.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactLinkActionsRowControl.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ConvertToContact.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ContactActionsRowControl.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseLinkActionsRowControl.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\CaseReportFormViewer.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Diagnostics\DataChecker.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingCase.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ExistingContact.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ImportFromLab.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\LabRecordsForCase.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\MenuItemPanel.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Occupations.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\PanelSubTab.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\AnalysisViewer.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\PatientOutcomeFormViewer.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage3.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage2.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\CaseReportFormPage1.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\DateDisplay.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Printing\YesNoUnknownBoxDisplay.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\QuickCaseEntryForm.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\RecordErrors.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\SelectEpiCaseClassification.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortCaseEntryForm.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\ShortLabResultForm.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\SitrepB.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\StatusSelector.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\AnalysisTab.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\Tabs\HospitalizationTab.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\UnexplainedBleeding.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\Controls\YesNoUnknown.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\MainWindow.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\App.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu_MarkupCompile.cache
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.CaseView\obj\x86\Debug\CaseManagementMenu_MarkupCompile.lref

@@ -1,0 +1,87 @@
+C:\CDC\Epi Info 7\NPOI.dll
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template.prj
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_lab_template.prj
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template_fr.prj
+C:\CDC\Epi Info 7\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\CRF.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_lab_template.mdb
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template.mdb
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template_fr.mdb
+C:\CDC\Epi Info 7\ContactTracing.WPF.dll
+C:\CDC\Epi Info 7\ContactTracing.WPF.pdb
+C:\CDC\Epi Info 7\fr\ContactTracing.WPF.resources.dll
+C:\TFSCode\Epi Info 7\build\debug\NPOI.dll
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\Epi Info 7\build\debug\ContactTracing.WPF.dll
+C:\TFSCode\Epi Info 7\build\debug\ContactTracing.WPF.pdb
+C:\TFSCode\Epi Info 7\build\debug\fr\ContactTracing.WPF.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracingLegend.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ErrorPanel.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\FileScreen.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\LoadingPanel.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ProjectSettings.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\NewOutbreak.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF_MarkupCompile.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF_MarkupCompile.lref
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracingLegend.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ErrorPanel.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\FileScreen.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\LoadingPanel.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ProjectSettings.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\NewOutbreak.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\Themes\Generic.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF.g.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF.Properties.Resources.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF.Properties.Resources.fr.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF.csproj.GenerateResource.Cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\fr\ContactTracing.WPF.resources.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.WPF\obj\Release\ContactTracing.WPF.pdb
+C:\TFSCode\Epi Info 7\build\release\NPOI.dll
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\Epi Info 7\build\release\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\Epi Info 7\build\release\ContactTracing.WPF.dll
+C:\TFSCode\Epi Info 7\build\release\ContactTracing.WPF.pdb
+C:\TFSCode\Epi Info 7\build\release\fr\ContactTracing.WPF.resources.dll

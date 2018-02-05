@@ -1,0 +1,101 @@
+C:\CDC\Epi Info 7\NPOI.dll
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template.prj
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_lab_template.prj
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template_fr.prj
+C:\CDC\Epi Info 7\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\CRF.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_lab_template.mdb
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template.mdb
+C:\CDC\Epi Info 7\Projects\VHF\base_vhf_template_fr.mdb
+C:\CDC\Epi Info 7\ContactTracing.ImportExport.dll
+C:\CDC\Epi Info 7\ContactTracing.ImportExport.pdb
+C:\TFSCode\Epi Info 7\build\debug\NPOI.dll
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\Epi Info 7\build\debug\ContactTracing.ImportExport.dll
+C:\TFSCode\Epi Info 7\build\debug\ContactTracing.ImportExport.pdb
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.ImportExportSharedStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.PackagerStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.UnpackagerStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.csproj.GenerateResource.Cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.pdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\NPOI.dll
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\ContactTracing.ImportExport.dll
+C:\TFSCode\VHF9422\vhf_en_0.9.4.22\Epi Info 7\ContactTracing.ImportExport.pdb
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.ImportExportSharedStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.PackagerStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.UnpackagerStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.csproj.GenerateResource.Cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.dll
+C:\TFSCode\EpiInfoVHF-0.9.4.x-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.pdb
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\NPOI.dll
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template.prj
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_lab_template.prj
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template_fr.prj
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\CRF.en-US.pdf
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_lab_template.mdb
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template.mdb
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\Projects\VHF\base_vhf_template_fr.mdb
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\ContactTracing.ImportExport.dll
+C:\CDC\Code\VHF9422\vhf_en_0.9.4.22\Epi Info 7\ContactTracing.ImportExport.pdb
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.csprojResolveAssemblyReference.cache
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.ImportExportSharedStrings.resources
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.PackagerStrings.resources
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.UnpackagerStrings.resources
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.csproj.GenerateResource.Cache
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.dll
+C:\CDC\Code\EpiInfoVHF-ExportExtension\ContactTracing.ImportExport\obj\Debug\ContactTracing.ImportExport.pdb

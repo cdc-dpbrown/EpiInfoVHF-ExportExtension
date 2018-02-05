@@ -1,0 +1,1035 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Absent" xml:space="preserve">
+    <value>Absent</value>
+  </data>
+  <data name="AddCase" xml:space="preserve">
+    <value>Ajouter un cas</value>
+  </data>
+  <data name="AddContact" xml:space="preserve">
+    <value>Ajouter un sujet contact</value>
+  </data>
+  <data name="AddSourceCase" xml:space="preserve">
+    <value>Ajouter un cas primaire</value>
+  </data>
+  <data name="Alive" xml:space="preserve">
+    <value>Vivant</value>
+  </data>
+  <data name="AllContacts" xml:space="preserve">
+    <value>Tous les sujets contact</value>
+  </data>
+  <data name="Analysis" xml:space="preserve">
+    <value>Analyse</value>
+    <comment>The analysis panel heading</comment>
+  </data>
+  <data name="AnalysisCasesCurrentlyIso" xml:space="preserve">
+    <value>Cas actuellement en isolement</value>
+  </data>
+  <data name="AnalysisCasesMissingOnsetDate" xml:space="preserve">
+    <value>Nombre de cas confirmés et probables dont la date de début de la maladie est manquante</value>
+  </data>
+  <data name="AnalysisCharacteristics" xml:space="preserve">
+    <value>Charactéristiques des cas confirmés et probables</value>
+  </data>
+  <data name="AnalysisCharacterizationFinalOutcomeConfirmedProbable" xml:space="preserve">
+    <value>Charactéristiques du devenir final pour les cas confirmés et probables</value>
+  </data>
+  <data name="AnalysisChartCaseCount" xml:space="preserve">
+    <value>Total des cas</value>
+  </data>
+  <data name="AnalysisChartWeekOnset" xml:space="preserve">
+    <value>Semaine de début de la maladie</value>
+  </data>
+  <data name="AnalysisClassConfirmedAcute" xml:space="preserve">
+    <value>Confirmé au stade aigu</value>
+  </data>
+  <data name="AnalysisClassConfirmedConvalescent" xml:space="preserve">
+    <value>Confirmé au stade de convalescence</value>
+  </data>
+  <data name="AnalysisClassNotCase" xml:space="preserve">
+    <value>Non cas</value>
+  </data>
+  <data name="AnalysisClassNotSampled" xml:space="preserve">
+    <value>Non testé</value>
+  </data>
+  <data name="AnalysisClassResultsPending" xml:space="preserve">
+    <value>En attente de résultats</value>
+  </data>
+  <data name="AnalysisConfirmedProbableHeading" xml:space="preserve">
+    <value>RESUME LIMITE AUX CAS CONFIRMES ET PROBABLES</value>
+  </data>
+  <data name="AnalysisContactFinalOutcome" xml:space="preserve">
+    <value>Devenir final des sujets contacts</value>
+  </data>
+  <data name="AnalysisContactsHeading" xml:space="preserve">
+    <value>RESUME DES SUJETS CONTACTS</value>
+  </data>
+  <data name="AnalysisCurrentFollowUp" xml:space="preserve">
+    <value>Sujets contacts actuellement suivis</value>
+  </data>
+  <data name="AnalysisCurrentlyIso" xml:space="preserve">
+    <value>Actuellement 
+en isolement</value>
+  </data>
+  <data name="AnalysisDateLastConfirmedIsoAdmitted" xml:space="preserve">
+    <value>Date d'isolement du dernier cas confirmé</value>
+  </data>
+  <data name="AnalysisDateLastConfirmedIsoDischarged" xml:space="preserve">
+    <value>Date de sortie d'isolement du dernier cas confirmé</value>
+  </data>
+  <data name="AnalysisDevelopedSymptomsIso" xml:space="preserve">
+    <value>Ont eu des symptômes et ont été isolés</value>
+  </data>
+  <data name="AnalysisDiedCommunity" xml:space="preserve">
+    <value>Mort dans
+la communauté</value>
+  </data>
+  <data name="AnalysisDiedHospital" xml:space="preserve">
+    <value>Mort à
+l'hopital</value>
+  </data>
+  <data name="AnalysisDischargedFollowUp" xml:space="preserve">
+    <value>Fin du suivi</value>
+  </data>
+  <data name="AnalysisDroppedFollowUp" xml:space="preserve">
+    <value>Arrêt du suivi</value>
+  </data>
+  <data name="AnalysisEpiClassAllPatients" xml:space="preserve">
+    <value>Classification épidémiologique de tous les patients examinés</value>
+  </data>
+  <data name="AnalysisEpiClassification" xml:space="preserve">
+    <value>Classification épidémiologique</value>
+  </data>
+  <data name="AnalysisEpiWeekByOnset" xml:space="preserve">
+    <value>Courbe épidémiologique des cas confirmés et 
+probable par semaine du début de la maladie</value>
+  </data>
+  <data name="AnalysisFinalOutcome" xml:space="preserve">
+    <value>Devenir final</value>
+  </data>
+  <data name="AnalysisHealthCareWorker" xml:space="preserve">
+    <value>Travailleur
+de santé</value>
+  </data>
+  <data name="AnalysisLabClass" xml:space="preserve">
+    <value>Classification d'après le laboratoire</value>
+  </data>
+  <data name="AnalysisLabClassAllPatients" xml:space="preserve">
+    <value>Classification d'après le laboratoire de tous les patients examinés</value>
+  </data>
+  <data name="AnalysisLocationOnsetConfirmedProbable" xml:space="preserve">
+    <value>Lieu du début de la maladie pour les cas confirmés et probables</value>
+  </data>
+  <data name="AnalysisLocationResidenceConfirmedProbable" xml:space="preserve">
+    <value>Lieu de résidence des cas confirmés et probables</value>
+  </data>
+  <data name="AnalysisMaximumAge" xml:space="preserve">
+    <value>Age maximum:</value>
+  </data>
+  <data name="AnalysisMeanAge" xml:space="preserve">
+    <value>Age moyen:</value>
+  </data>
+  <data name="AnalysisMedianAge" xml:space="preserve">
+    <value>Age médian:</value>
+  </data>
+  <data name="AnalysisMinimumAge" xml:space="preserve">
+    <value>Age minimum:</value>
+  </data>
+  <data name="AnalysisNewCasesIdentified" xml:space="preserve">
+    <value>Nouveaux cas suspect/probable/confirmés identifiés</value>
+  </data>
+  <data name="AnalysisNewDeaths" xml:space="preserve">
+    <value>Nouveaux décès parmi les cas confirmés et probables</value>
+  </data>
+  <data name="AnalysisNumContactsFollowedToday" xml:space="preserve">
+    <value>Nombre de contacts suivis aujourd'hui:</value>
+  </data>
+  <data name="AnalysisSamplesCollected" xml:space="preserve">
+    <value>Prélèvements effectués</value>
+  </data>
+  <data name="AnalysisStatusOfContacts" xml:space="preserve">
+    <value>Etat des sujets contacts</value>
+  </data>
+  <data name="AnalysisSummaryHeading" xml:space="preserve">
+    <value>RESUME DE TOUS LES PATIENTS EXAMINES</value>
+  </data>
+  <data name="AnalysisSymptomAbdPain" xml:space="preserve">
+    <value>Douleur abdominale</value>
+  </data>
+  <data name="AnalysisSymptomAnorexia" xml:space="preserve">
+    <value>Anoréxie / Perte d'appétit</value>
+  </data>
+  <data name="AnalysisSymptomChestPain" xml:space="preserve">
+    <value>Douleur thoracique</value>
+  </data>
+  <data name="AnalysisSymptomComa" xml:space="preserve">
+    <value>Coma / perte de conscience</value>
+  </data>
+  <data name="AnalysisSymptomConfused" xml:space="preserve">
+    <value>Confusion ou désorientation</value>
+  </data>
+  <data name="AnalysisSymptomConjunctivitis" xml:space="preserve">
+    <value>Conjonctivite</value>
+  </data>
+  <data name="AnalysisSymptomCough" xml:space="preserve">
+    <value>Toux</value>
+  </data>
+  <data name="AnalysisSymptomDiarrhea" xml:space="preserve">
+    <value>Diahrrées</value>
+  </data>
+  <data name="AnalysisSymptomDiffBreathe" xml:space="preserve">
+    <value>Difficultés à respirer</value>
+  </data>
+  <data name="AnalysisSymptomDiffSwallow" xml:space="preserve">
+    <value>Difficultés à avaler</value>
+  </data>
+  <data name="AnalysisSymptomFatigue" xml:space="preserve">
+    <value>Fatigue générale intense</value>
+  </data>
+  <data name="AnalysisSymptomFever" xml:space="preserve">
+    <value>Fièvre</value>
+  </data>
+  <data name="AnalysisSymptomHeadache" xml:space="preserve">
+    <value>Céphalées</value>
+  </data>
+  <data name="AnalysisSymptomHiccups" xml:space="preserve">
+    <value>Hoquet</value>
+  </data>
+  <data name="AnalysisSymptomJaundice" xml:space="preserve">
+    <value>Ictère</value>
+  </data>
+  <data name="AnalysisSymptomJointPain" xml:space="preserve">
+    <value>Douleurs articulaires</value>
+  </data>
+  <data name="AnalysisSymptomMusclePain" xml:space="preserve">
+    <value>Douleurs musculaires</value>
+  </data>
+  <data name="AnalysisSymptomOnsetAfter" xml:space="preserve">
+    <value>Début des symptômes
+après la détection de l'épidémie</value>
+  </data>
+  <data name="AnalysisSymptomOnsetBefore" xml:space="preserve">
+    <value>Début des symptômes 
+avant la détection de l'épidémie</value>
+  </data>
+  <data name="AnalysisSymptomPainEyes" xml:space="preserve">
+    <value>Douleurs retro-orbitaires/photophobie</value>
+  </data>
+  <data name="AnalysisSymptomRash" xml:space="preserve">
+    <value>Eruption cutanée</value>
+  </data>
+  <data name="AnalysisSymptomsConfirmedProbableCases" xml:space="preserve">
+    <value>Symptômes des cas confirmés et probables</value>
+  </data>
+  <data name="AnalysisSymptomSoreThroat" xml:space="preserve">
+    <value>Mal à la gorge</value>
+  </data>
+  <data name="AnalysisSymptomUnexplainedBleed" xml:space="preserve">
+    <value>Saignements (tous)</value>
+  </data>
+  <data name="AnalysisSymptomVomiting" xml:space="preserve">
+    <value>Vomissements</value>
+  </data>
+  <data name="AnalysisTodaysStat" xml:space="preserve">
+    <value>Donnée statistique du jour</value>
+  </data>
+  <data name="AnalysisTodaysStats" xml:space="preserve">
+    <value>Données statistiques du jour</value>
+  </data>
+  <data name="AnalysisTotalAllPatientsExamined" xml:space="preserve">
+    <value>Total pour tous
+les patients examinés</value>
+  </data>
+  <data name="AnalysisTotalContactsListed" xml:space="preserve">
+    <value>Nombre de sujets contacts</value>
+  </data>
+  <data name="AnalysisTotalCount" xml:space="preserve">
+    <value>Somme
+totale</value>
+  </data>
+  <data name="AnalysisTotalPatientsTested" xml:space="preserve">
+    <value>Total des patients testés</value>
+  </data>
+  <data name="AnalysisTotalSamplesCollected" xml:space="preserve">
+    <value>Total des prélèvements effectués</value>
+  </data>
+  <data name="AnalysisUnknownMissing" xml:space="preserve">
+    <value>Inconnu / 
+manquant</value>
+  </data>
+  <data name="AnalyzeCases" xml:space="preserve">
+    <value>Analyse des cas</value>
+  </data>
+  <data name="AnalyzeCasesWithLabSampleData" xml:space="preserve">
+    <value>Analyse des cas en tenant compte des résultats du laboratoire</value>
+  </data>
+  <data name="AnalyzeContacts" xml:space="preserve">
+    <value>Analyse des sujets contacts</value>
+  </data>
+  <data name="CaseManagement" xml:space="preserve">
+    <value>Suivi du cas</value>
+  </data>
+  <data name="Cases" xml:space="preserve">
+    <value>Cas</value>
+  </data>
+  <data name="Close" xml:space="preserve">
+    <value>Fermer</value>
+    <comment>The close button that appears on the top right corner of the window. Represents the 'close project' command.</comment>
+  </data>
+  <data name="ColHeaderAge" xml:space="preserve">
+    <value>Age</value>
+  </data>
+  <data name="ColHeaderContactID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="ColHeaderContactType" xml:space="preserve">
+    <value>Type de contact</value>
+  </data>
+  <data name="ColHeaderCurrentStatus" xml:space="preserve">
+    <value>Classification actuelle</value>
+  </data>
+  <data name="ColHeaderDateDischargeIso" xml:space="preserve">
+    <value>Date de sortie 
+de l'isolement</value>
+  </data>
+  <data name="ColHeaderDateIso" xml:space="preserve">
+    <value>Date de mise
+en isolement</value>
+  </data>
+  <data name="ColHeaderDateLastContact" xml:space="preserve">
+    <value>Date du 
+dernier contact</value>
+  </data>
+  <data name="ColHeaderDateLastFollowUp" xml:space="preserve">
+    <value>Date de la 
+dernière observation</value>
+  </data>
+  <data name="ColHeaderDay" xml:space="preserve">
+    <value>Jour</value>
+  </data>
+  <data name="ColHeaderDeathDate" xml:space="preserve">
+    <value>Date du
+décès</value>
+  </data>
+  <data name="ColHeaderDistrict" xml:space="preserve">
+    <value>District</value>
+  </data>
+  <data name="ColHeaderDistrictOnset" xml:space="preserve">
+    <value>District de début
+de la maladie</value>
+  </data>
+  <data name="ColHeaderEpiCaseDef" xml:space="preserve">
+    <value>Classification
+épidémiologique</value>
+  </data>
+  <data name="ColHeaderFinalLabClass" xml:space="preserve">
+    <value>Classification finale en
+fonction du laboratoire</value>
+  </data>
+  <data name="ColHeaderGender" xml:space="preserve">
+    <value>Genre</value>
+  </data>
+  <data name="ColHeaderHCW" xml:space="preserve">
+    <value>Travailleur 
+de santé?</value>
+  </data>
+  <data name="ColHeaderHeadHousehold" xml:space="preserve">
+    <value>Chef de
+famille</value>
+  </data>
+  <data name="ColHeaderHealthCareFacility" xml:space="preserve">
+    <value>Centre sanitaire</value>
+  </data>
+  <data name="ColHeaderID" xml:space="preserve">
+    <value>MoH/UVRI
+ID</value>
+  </data>
+  <data name="ColHeaderIsoAdmitted" xml:space="preserve">
+    <value>Admis à
+l'isolement le</value>
+  </data>
+  <data name="ColHeaderIsoDischarge" xml:space="preserve">
+    <value>Sori de l'isolement le</value>
+  </data>
+  <data name="ColHeaderLC1Chairman" xml:space="preserve">
+    <value>Chef de village</value>
+  </data>
+  <data name="ColHeaderNotes" xml:space="preserve">
+    <value>Notes</value>
+  </data>
+  <data name="ColHeaderOnsetDate" xml:space="preserve">
+    <value>Date de
+début</value>
+  </data>
+  <data name="ColHeaderOtherNames" xml:space="preserve">
+    <value>Autres noms</value>
+  </data>
+  <data name="ColHeaderPhone" xml:space="preserve">
+    <value>Téléphone</value>
+  </data>
+  <data name="ColHeaderRecStatus" xml:space="preserve">
+    <value>Statut de cette entrée</value>
+  </data>
+  <data name="ColHeaderRelationship" xml:space="preserve">
+    <value>Lien de parenté</value>
+  </data>
+  <data name="ColHeaderRelationshipContact" xml:space="preserve">
+    <value>Lien entre le sujet
+contact et le cas</value>
+  </data>
+  <data name="ColHeaderRelationshipSourceCase" xml:space="preserve">
+    <value>Lien entre le cas
+primaire et le cas</value>
+  </data>
+  <data name="ColHeaderRiskLevel" xml:space="preserve">
+    <value>Niveau de risques</value>
+  </data>
+  <data name="ColHeaderSourceCaseID" xml:space="preserve">
+    <value>Source Case
+MoH/UVRI ID</value>
+  </data>
+  <data name="ColHeaderSourceCaseOtherNames" xml:space="preserve">
+    <value>Autres noms
+du cas primaire</value>
+  </data>
+  <data name="ColHeaderSourceCaseSurname" xml:space="preserve">
+    <value>Nom du
+cas primaire</value>
+  </data>
+  <data name="ColHeaderStatus" xml:space="preserve">
+    <value>Statut</value>
+  </data>
+  <data name="ColHeaderSubCounty" xml:space="preserve">
+    <value>Commune</value>
+  </data>
+  <data name="ColHeaderSurname" xml:space="preserve">
+    <value>Nom</value>
+  </data>
+  <data name="ColHeaderVillage" xml:space="preserve">
+    <value>Village</value>
+  </data>
+  <data name="Confirmed" xml:space="preserve">
+    <value>Confirmé</value>
+  </data>
+  <data name="Contacts" xml:space="preserve">
+    <value>Sujets contacts</value>
+  </data>
+  <data name="ConvertCase" xml:space="preserve">
+    <value>Transformer en sujet contact</value>
+  </data>
+  <data name="ConvertToCase" xml:space="preserve">
+    <value>Transformer en cas</value>
+  </data>
+  <data name="Count" xml:space="preserve">
+    <value>Compter</value>
+  </data>
+  <data name="Dead" xml:space="preserve">
+    <value>Décédé</value>
+  </data>
+  <data name="DeleteCase" xml:space="preserve">
+    <value>Effacer le cas</value>
+  </data>
+  <data name="DeleteContact" xml:space="preserve">
+    <value>Effacer le sujet contact</value>
+  </data>
+  <data name="EditLink" xml:space="preserve">
+    <value>Editer le lien</value>
+  </data>
+  <data name="EpidemiologyReport" xml:space="preserve">
+    <value>Rapport épidémiologique</value>
+  </data>
+  <data name="Excluded" xml:space="preserve">
+    <value>Exclu</value>
+  </data>
+  <data name="ExistingContact" xml:space="preserve">
+    <value>Sujet contact existant</value>
+  </data>
+  <data name="Export" xml:space="preserve">
+    <value>Exporter</value>
+  </data>
+  <data name="Female" xml:space="preserve">
+    <value>Feminin</value>
+  </data>
+  <data name="FreeFormAnalysis" xml:space="preserve">
+    <value>Analyse libre</value>
+  </data>
+  <data name="Import" xml:space="preserve">
+    <value>Importer</value>
+  </data>
+  <data name="ImportLab" xml:space="preserve">
+    <value>Importer les résultats du laboratoire</value>
+  </data>
+  <data name="Instructions1" xml:space="preserve">
+    <value>Pour ouvrir une base de données pour une nouvelle épidémie, cliquez (gauche) sur le bouton "Nouvelle Epidémie" ci-dessous</value>
+  </data>
+  <data name="Instructions2" xml:space="preserve">
+    <value>Pour ouvrir une base de données d'une épidémie existante, cliquez (gauche) sur le fichier correspondant du menu</value>
+  </data>
+  <data name="Male" xml:space="preserve">
+    <value>Masculin</value>
+  </data>
+  <data name="Negative" xml:space="preserve">
+    <value>Négatif</value>
+  </data>
+  <data name="NewContact" xml:space="preserve">
+    <value>Nouveau sujet contact</value>
+  </data>
+  <data name="NewOutbreak" xml:space="preserve">
+    <value>Nouvelle épidémie</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>Non</value>
+  </data>
+  <data name="NotCase" xml:space="preserve">
+    <value>Ce n'est pas un cas</value>
+  </data>
+  <data name="NotCurrentlySick" xml:space="preserve">
+    <value>Actuellement en bonne santé - était malade auparavant</value>
+  </data>
+  <data name="PercentSymbol" xml:space="preserve">
+    <value>%</value>
+  </data>
+  <data name="PlaceDeathCommunity" xml:space="preserve">
+    <value>Communauté</value>
+  </data>
+  <data name="PlaceDeathHospital" xml:space="preserve">
+    <value>Hôpital</value>
+  </data>
+  <data name="PlaceDeathOther" xml:space="preserve">
+    <value>Autre</value>
+  </data>
+  <data name="Positive" xml:space="preserve">
+    <value>Positif</value>
+  </data>
+  <data name="Present" xml:space="preserve">
+    <value>Présent</value>
+  </data>
+  <data name="Print" xml:space="preserve">
+    <value>Imprimer</value>
+  </data>
+  <data name="Print21DayReport" xml:space="preserve">
+    <value>Imprimer le rapport des 21 jours</value>
+  </data>
+  <data name="PrintDailyReport" xml:space="preserve">
+    <value>Imprimer le rapport journalier</value>
+  </data>
+  <data name="PriorFollowUps" xml:space="preserve">
+    <value>Suivis antérieurs</value>
+  </data>
+  <data name="Probable" xml:space="preserve">
+    <value>Probable</value>
+  </data>
+  <data name="RecComplete" xml:space="preserve">
+    <value>Terminé</value>
+  </data>
+  <data name="RecMissCRF" xml:space="preserve">
+    <value>Fiche de notification incomplète</value>
+  </data>
+  <data name="RecNoCRF" xml:space="preserve">
+    <value>Fiche de notification manquante</value>
+  </data>
+  <data name="RecPendingLab" xml:space="preserve">
+    <value>En attente du laboratoire</value>
+  </data>
+  <data name="RecPendingOutcome" xml:space="preserve">
+    <value>En attente du devenir final du malade</value>
+  </data>
+  <data name="RiskLevelHigh" xml:space="preserve">
+    <value>Haut</value>
+  </data>
+  <data name="RiskLevelLow" xml:space="preserve">
+    <value>Bas</value>
+  </data>
+  <data name="RiskLevelMedium" xml:space="preserve">
+    <value>Moyen</value>
+  </data>
+  <data name="SampleInterpretationConfirmedAcute" xml:space="preserve">
+    <value>Confirmé au stade aigu</value>
+  </data>
+  <data name="SampleInterpretationConfirmedConvalescent" xml:space="preserve">
+    <value>Confirmé au stade de convalescent</value>
+  </data>
+  <data name="SampleInterpretationIndeterminate" xml:space="preserve">
+    <value>indéterminé</value>
+  </data>
+  <data name="SampleInterpretationNegativeNeedFollowUp" xml:space="preserve">
+    <value>Negatif, besoin d'un prélèvement de confirmation</value>
+  </data>
+  <data name="SampleInterpretationNotCase" xml:space="preserve">
+    <value>Non cas</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Charactéristiques de l'application</value>
+    <comment>The text for the button that opens the project settings window.</comment>
+  </data>
+  <data name="ShowCasesOnly" xml:space="preserve">
+    <value>Montrez uniquement les cas</value>
+  </data>
+  <data name="ShowContacts" xml:space="preserve">
+    <value>Montrez les sujets contacts</value>
+  </data>
+  <data name="ShowContactsOnly" xml:space="preserve">
+    <value>Montrez uniquement les sujets contacts</value>
+  </data>
+  <data name="ShowIndividualReport" xml:space="preserve">
+    <value>Montrez le rapport individuel</value>
+  </data>
+  <data name="ShowSourceCases" xml:space="preserve">
+    <value>Montrez les cas primairess</value>
+  </data>
+  <data name="SickAndIsolated" xml:space="preserve">
+    <value>Malade et isolé</value>
+  </data>
+  <data name="SingleContactChartNotSeen" xml:space="preserve">
+    <value>Non vu</value>
+  </data>
+  <data name="SingleContactChartSickIsolated" xml:space="preserve">
+    <value>Malade et
+isolé</value>
+  </data>
+  <data name="SourceCases" xml:space="preserve">
+    <value>Cas primaires</value>
+  </data>
+  <data name="StatusIsolated" xml:space="preserve">
+    <value>Isolé?</value>
+    <comment>This shows up in the daily follow-up list of contacts.</comment>
+  </data>
+  <data name="SubTabAllContacts" xml:space="preserve">
+    <value>Tous les sujets contacts</value>
+  </data>
+  <data name="SubTabDailyFollowUps" xml:space="preserve">
+    <value>Suivis du jour</value>
+  </data>
+  <data name="SubTabPriorFollowUps" xml:space="preserve">
+    <value>Suivis antérieurs</value>
+  </data>
+  <data name="Suspect" xml:space="preserve">
+    <value>Suspect</value>
+  </data>
+  <data name="Symptom" xml:space="preserve">
+    <value>Symptômes</value>
+  </data>
+  <data name="TabAnalysis" xml:space="preserve">
+    <value>Analyse</value>
+  </data>
+  <data name="TabCaseManagement" xml:space="preserve">
+    <value>Suivi des cas</value>
+  </data>
+  <data name="TabContacts" xml:space="preserve">
+    <value>Sujets contacts</value>
+  </data>
+  <data name="TabIsolatedPatients" xml:space="preserve">
+    <value>Malades isolés</value>
+  </data>
+  <data name="TabTransmissionChain" xml:space="preserve">
+    <value>Chaine de transmission</value>
+  </data>
+  <data name="TodaysFollowUps" xml:space="preserve">
+    <value>Suivis d'aujourd'hui</value>
+  </data>
+  <data name="TotalConfirmedProbable" xml:space="preserve">
+    <value>Total des cas
+confirmés et probables</value>
+  </data>
+  <data name="TransChainImageSaved" xml:space="preserve">
+    <value>La figure correspondant à la chaine de transmission est sauvegardée.</value>
+  </data>
+  <data name="UnlinkContact" xml:space="preserve">
+    <value>Déconnecter le sujet contact</value>
+  </data>
+  <data name="UnlinkSourceCase" xml:space="preserve">
+    <value>Déconnecter le cas primaire</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>BIENVENUE</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Oui</value>
+  </data>
+  <data name="ApplicationExceptionOccurred" xml:space="preserve">
+    <value>Un problème a été rencontré. Contacter le programmeur.</value>
+  </data>
+  <data name="CannotConvertSameIdentity" xml:space="preserve">
+    <value>Impossible de reclasser ce cas en sujet contact car le cas primaire est le même que le Cas</value>
+  </data>
+  <data name="CannotConvertToCase" xml:space="preserve">
+    <value>Impossible de le transformer en cas.</value>
+  </data>
+  <data name="CannotConvertToContact" xml:space="preserve">
+    <value>Impossible de le transformer en sujet contact.</value>
+  </data>
+  <data name="CaseAlreadyExistsAsContact" xml:space="preserve">
+    <value>Ce cas existe déjà en tant que sujet conatct.</value>
+  </data>
+  <data name="ContactAlreadyExistsAsCase" xml:space="preserve">
+    <value>Ce sujet contact existe déjà en tant que cas</value>
+  </data>
+  <data name="ConversionComplete" xml:space="preserve">
+    <value>Reclassement terminé</value>
+  </data>
+  <data name="ConversionToCaseComplete" xml:space="preserve">
+    <value>Le sujet contact sélectionné a été reclassé en cas</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Erreur</value>
+  </data>
+  <data name="ErrorAlreadyExistsAsCase" xml:space="preserve">
+    <value>Cette entrée existe déjà en tant que cas. Impossible de choisir "malade et isolé". Contacter le responsible des donnés.</value>
+  </data>
+  <data name="ErrorDuplicateIDs" xml:space="preserve">
+    <value>Il existe des doublons (même numéro d'identification). Verifier que les numéros d'identification des cas sont uniques avant de continuer</value>
+  </data>
+  <data name="ErrorNoDateLastContact" xml:space="preserve">
+    <value>Aucune date de dernier suivi n'a été fournie pour ce lien. Ce lien ne peut pas être enregistré.</value>
+  </data>
+  <data name="ExportFailed" xml:space="preserve">
+    <value>Impossible d'exporter</value>
+  </data>
+  <data name="ExportSuccessFileWrittenTo" xml:space="preserve">
+    <value>Exportation réussie. Le fichier est sauvé dans: 
+{0}</value>
+  </data>
+  <data name="Fail" xml:space="preserve">
+    <value>Impossible</value>
+  </data>
+  <data name="MsgContactToCaseConversionComplete" xml:space="preserve">
+    <value>Ce sujet contact a été reclassifié en cas et peut être trouvé dans la rubrique suivi des Cas.</value>
+  </data>
+  <data name="OnlyConvertNotACase" xml:space="preserve">
+    <value>Seuls les patients classé comme "non cas" peuvent être transformés en sujets contacts.</value>
+  </data>
+  <data name="ProjectNameExistsTryAgain" xml:space="preserve">
+    <value>Un fichier avec ce nom existe déjà. Faites une autre tentative.</value>
+  </data>
+  <data name="QuestionConvertContact" xml:space="preserve">
+    <value>Etes vous sur que vous voulez transformer ce sujet contact?</value>
+  </data>
+  <data name="QuestionConvertContactToCase" xml:space="preserve">
+    <value>Voulez vous transformer ce sujet contact en cas?</value>
+  </data>
+  <data name="QuestionDeleteCaseAreYouSure" xml:space="preserve">
+    <value>Etes vous sur que vous voulez supprimer ce cas? Ce sera irréversible.</value>
+  </data>
+  <data name="QuestionDeleteContactAreYouSure" xml:space="preserve">
+    <value>Etes vous sur que vous voulez supprimer ce sujet contact? Ce sera irréversible.</value>
+  </data>
+  <data name="QuestionLastLinkWillBeDeleted" xml:space="preserve">
+    <value>C'est le dernier lien pour ce sujet contact. Enlever ce lien entre le sujet contact et le cas, supprimera le sujet contact. Voulez vous le faire?</value>
+  </data>
+  <data name="QuestionUnlinkAreYouSure" xml:space="preserve">
+    <value>Etes vous sur de vouloir deconnecter ce sujet contact? Ce sera irréversible</value>
+  </data>
+  <data name="QuestionUnlinkExposureAreYouSure" xml:space="preserve">
+    <value>Etes vous sur de vouloir deconnecter le cas primaire?</value>
+  </data>
+  <data name="Success" xml:space="preserve">
+    <value>Effectué</value>
+  </data>
+  <data name="TooltipConvertToCase" xml:space="preserve">
+    <value>Transformer ce sujet contact en cas.</value>
+  </data>
+  <data name="TooltipConvertToCaseHeading" xml:space="preserve">
+    <value>Transformer en cas</value>
+  </data>
+  <data name="TooltipConvertToContact" xml:space="preserve">
+    <value>Transformer ce cas en sujet contact.</value>
+  </data>
+  <data name="TooltipConvertToContactHeading" xml:space="preserve">
+    <value>Transformer en sujet contact</value>
+  </data>
+  <data name="TooltipDeleteCase" xml:space="preserve">
+    <value>Si vous continuez, le cas sera définitivement supprimé.</value>
+  </data>
+  <data name="TooltipDeleteCaseHeading" xml:space="preserve">
+    <value>Effacer le cas</value>
+  </data>
+  <data name="TooltipDeleteContact" xml:space="preserve">
+    <value>Si vous continuez, le sujet contact sera définitivement supprimé.</value>
+  </data>
+  <data name="TooltipDeleteContactHeading" xml:space="preserve">
+    <value>Effacer le sujet contact</value>
+  </data>
+  <data name="TooltipEditLink" xml:space="preserve">
+    <value>Options pour modifier les liens entre cas et cas primaire.</value>
+  </data>
+  <data name="TooltipEditLinkAlt" xml:space="preserve">
+    <value>Options pour modifier les liens cas et sujet contact.</value>
+  </data>
+  <data name="TooltipPrint" xml:space="preserve">
+    <value>Options pour imprimer ce cas.</value>
+  </data>
+  <data name="TooltipPrintCRF" xml:space="preserve">
+    <value>Imprimer formulaire investigation</value>
+  </data>
+  <data name="TooltipPrintOutcomeForm" xml:space="preserve">
+    <value>Imprimer formulaire status final</value>
+  </data>
+  <data name="TwentyOneDayReportFor" xml:space="preserve">
+    <value>Rapport de suivi de 21 jours pour: {0}</value>
+  </data>
+  <data name="Warning" xml:space="preserve">
+    <value>Attention</value>
+  </data>
+  <data name="Loading" xml:space="preserve">
+    <value>Chargement…</value>
+  </data>
+  <data name="AllIsolatedPatients" xml:space="preserve">
+    <value>Tous les patients en isolement</value>
+  </data>
+  <data name="ColHeaderDateSampleCollected" xml:space="preserve">
+    <value>Date du 
+dernier prélèvement</value>
+  </data>
+  <data name="ColHeaderHealthFacility" xml:space="preserve">
+    <value>Centre de santé</value>
+  </data>
+  <data name="ColHeaderIsoAdmittedAlt" xml:space="preserve">
+    <value>Date d'admission en isolement</value>
+  </data>
+  <data name="ColHeaderPCRResultLast" xml:space="preserve">
+    <value>Résultat par PCR du dernier prélèvement</value>
+  </data>
+  <data name="FemaleSymbol" xml:space="preserve">
+    <value>F</value>
+  </data>
+  <data name="HTML21DayInstructions1" xml:space="preserve">
+    <value>Noter {0} si vu et en bonne santé</value>
+  </data>
+  <data name="HTML21DayInstructions2" xml:space="preserve">
+    <value>Noter {0} si vu et malade. Si malade, noter les symptômes dans la rubrique Notes</value>
+  </data>
+  <data name="HTML21DayInstructions3" xml:space="preserve">
+    <value>Noter {0} si non présent.</value>
+  </data>
+  <data name="HTMLColHeaderAgeNarrow" xml:space="preserve">
+    <value>A g e</value>
+  </data>
+  <data name="HTMLColHeaderCollectSampleToday" xml:space="preserve">
+    <value>Prélèvements effectués aujourd'hui?*</value>
+  </data>
+  <data name="HTMLColHeaderDateDischarge" xml:space="preserve">
+    <value>Date de sortie</value>
+  </data>
+  <data name="HTMLColHeaderDateLastContact" xml:space="preserve">
+    <value>Date du dernier contact</value>
+  </data>
+  <data name="HTMLColHeaderDied" xml:space="preserve">
+    <value>Décédé?*</value>
+  </data>
+  <data name="HTMLColHeaderDischarged" xml:space="preserve">
+    <value>Sorti?*</value>
+  </data>
+  <data name="HTMLColHeaderHeadHousehold" xml:space="preserve">
+    <value>Chef de famille</value>
+  </data>
+  <data name="HTMLColHeaderNotes" xml:space="preserve">
+    <value>Notes:</value>
+  </data>
+  <data name="HTMLColHeaderSex" xml:space="preserve">
+    <value>Sexe</value>
+  </data>
+  <data name="HTMLColHeaderSexNarrow" xml:space="preserve">
+    <value>S e x e</value>
+  </data>
+  <data name="HTMLContactTracingFollowUpListHeading14Days" xml:space="preserve">
+    <value>LISTE DE SUIVI DES CONTACTS (14 JOURS)</value>
+  </data>
+  <data name="HTMLContactTracingFollowUpListHeading21Days" xml:space="preserve">
+    <value>LISTE DE SUIVI DES CONTACTS (21 JOURS)</value>
+  </data>
+  <data name="HTMLDate" xml:space="preserve">
+    <value>Date:</value>
+  </data>
+  <data name="HTMLDatePrinted" xml:space="preserve">
+    <value>Date d'impression:</value>
+  </data>
+  <data name="HTMLDistrictHeading" xml:space="preserve">
+    <value>District:</value>
+  </data>
+  <data name="HTMLIsoInstructions" xml:space="preserve">
+    <value>*Veuillez inscrire {0} s'il s'agit d'un évènement qui s'est passé aujourd'hui</value>
+  </data>
+  <data name="HTMLIsoPatientsListHeading" xml:space="preserve">
+    <value>LISTE DES PATIENTS HOSPITALISES</value>
+  </data>
+  <data name="HTMLLC1ChairmanHeading" xml:space="preserve">
+    <value>Chef de village:</value>
+  </data>
+  <data name="HTMLPast14DayFootnote" xml:space="preserve">
+    <value>Contact a dépassé le suivi du 14 jour, mais n'a pas été vu ce jour là. Noter le status du contact pour le 14eme jour.</value>
+  </data>
+  <data name="HTMLPast21DayFootnote" xml:space="preserve">
+    <value>Contact a dépassé le suivi du 21 jour, mais n'a pas été vu ce jour là. Noter le status du contact pour le 21ème jour.</value>
+  </data>
+  <data name="HTMLSubCountyHeading" xml:space="preserve">
+    <value>Commune:</value>
+  </data>
+  <data name="HTMLTeam" xml:space="preserve">
+    <value>Equipe:</value>
+  </data>
+  <data name="HTMLTeamLeader" xml:space="preserve">
+    <value>Chef d'équipe:</value>
+  </data>
+  <data name="HTMLVillageHeading" xml:space="preserve">
+    <value>Village:</value>
+  </data>
+  <data name="IsolatedPatientsHeading" xml:space="preserve">
+    <value>Patients isolés</value>
+  </data>
+  <data name="MaleSymbol" xml:space="preserve">
+    <value>M</value>
+  </data>
+  <data name="PrintList" xml:space="preserve">
+    <value>Imprimer la liste</value>
+  </data>
+  <data name="HTMLColHeaderDateLastSeen" xml:space="preserve">
+    <value>Date du dernier suivi</value>
+  </data>
+  <data name="HTMLColHeaderDay" xml:space="preserve">
+    <value>Jour</value>
+  </data>
+  <data name="HTMLColHeaderHCWHealthFacility" xml:space="preserve">
+    <value>Centre sanitaire (si travailleur de santé)</value>
+  </data>
+  <data name="HTMLColHeaderSeenNarrow" xml:space="preserve">
+    <value>Vu</value>
+  </data>
+  <data name="HTMLColHeaderSickNarrow" xml:space="preserve">
+    <value>Malade</value>
+  </data>
+  <data name="HTMLColHeaderStatus" xml:space="preserve">
+    <value>Etat</value>
+  </data>
+  <data name="HTMLContactTracingDailyFollowUpheader" xml:space="preserve">
+    <value>LISTE JOURNALIERE DE SUIVI DES CONTACTS</value>
+  </data>
+  <data name="PrintCaseReportForm" xml:space="preserve">
+    <value>Imprimer formulaire
+investigation</value>
+  </data>
+  <data name="PrintContactListForm" xml:space="preserve">
+    <value>Imprimer formulaire
+listant contacts</value>
+  </data>
+  <data name="PrintPatientOutcomeForm" xml:space="preserve">
+    <value>Imprimer formulaire
+status final</value>
+  </data>
+</root>

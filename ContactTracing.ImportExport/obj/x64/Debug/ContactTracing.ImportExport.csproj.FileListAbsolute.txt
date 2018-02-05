@@ -1,0 +1,5 @@
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\x64\Debug\ContactTracing.ImportExport.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\x64\Debug\ContactTracing.ImportExport.ImportExportSharedStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\x64\Debug\ContactTracing.ImportExport.PackagerStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\x64\Debug\ContactTracing.ImportExport.UnpackagerStrings.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.ImportExport\obj\x64\Debug\ContactTracing.ImportExport.csproj.GenerateResource.Cache

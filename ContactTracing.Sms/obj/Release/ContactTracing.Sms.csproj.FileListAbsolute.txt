@@ -1,0 +1,38 @@
+C:\TFSCode\Epi Info 7\build\debug\NPOI.dll
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.prj
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\ContactForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\CRF.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.en-US.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Resources\OutcomeForm.fr-FR.pdf
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Case.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCP.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseCPS.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_CaseLab.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\Canvases\Canvas_Contact.cvs7
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_lab_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template.mdb
+C:\TFSCode\Epi Info 7\build\debug\Projects\VHF\base_vhf_template_fr.mdb
+C:\TFSCode\Epi Info 7\build\debug\SMSserver.exe.config
+C:\TFSCode\Epi Info 7\build\debug\SMSserver.exe
+C:\TFSCode\Epi Info 7\build\debug\SMSserver.pdb
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\ContactTracing.Sms.csprojResolveAssemblyReference.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SmsSettings.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\App.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\CommandConsole.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SmsSettings.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SmsWindow.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\App.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SMSserver_MarkupCompile.cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SMSserver_MarkupCompile.lref
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\CommandConsole.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SmsWindow.baml
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SMSserver.g.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\ContactTracing.Sms.Properties.Resources.resources
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\ContactTracing.Sms.csproj.GenerateResource.Cache
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SMSserver.exe
+C:\TFSCode\EpiInfoVHF-0.9.4.x\ContactTracing.Sms\obj\Release\SMSserver.pdb
